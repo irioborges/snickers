@@ -2,6 +2,7 @@
 
 Baseado no repositório inSitu de algum artigo que peguei
 Treino:
+<br>
 96 imagens
 
 Validação:
