@@ -1,8 +1,8 @@
 # Dataset do chocolate Snickers para arquitetura YOLO
 
 Baseado no repositório inSitu de algum artigo que peguei
-Treino:
 <br>
+Treino:
 96 imagens
 
 Validação:
